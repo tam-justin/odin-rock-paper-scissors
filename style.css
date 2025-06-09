@@ -77,3 +77,7 @@ body {
 .scores-results {
     text-align: center;
 }
+
+#reset {
+    margin-bottom: 40px;
+}
